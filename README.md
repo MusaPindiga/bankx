@@ -1,6 +1,6 @@
-# bankx
+# BankX
 
-A new Flutter project.
+A mobile banking flutter application.
 
 ## Getting Started
 
